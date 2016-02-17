@@ -1,6 +1,6 @@
 var React = require('react');
 var Stream = require('./Stream.react');
-var Collection = require('./Collection.react');
+var Collection = require('./Collections.react');
 
 var Application = React.createClass({
 
